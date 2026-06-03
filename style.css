@@ -2,3 +2,8 @@
   margin:auto;
   backgroud-color:black;
 }
+.{
+  background-color: red;
+  border:1px solid black;
+  border-radious:12px;
+}
