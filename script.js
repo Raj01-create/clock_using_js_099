@@ -10,3 +10,8 @@ const={}
 function sohp(){
   
 }
+
+fuction fun(){
+  console.log("hii")
+}
+fun()
