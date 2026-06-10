@@ -2,3 +2,4 @@
 
 
 this is  a clock  app using the projext
+now 
